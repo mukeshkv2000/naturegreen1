@@ -9,10 +9,7 @@ declare var $: any;
 
 export class AppComponent {
   title = 'Hotel';
-
-
-
-} 
+}
 
 
   $(document).ready(function(){
